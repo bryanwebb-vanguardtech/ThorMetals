@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cash Deal</fullName>
+    <isActive>true</isActive>
+    <values>
+        <fullName>Closed Lost</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Deal In Process</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Deal Traded</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Order Complete</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Wire Received</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>
